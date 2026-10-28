@@ -1,5 +1,6 @@
 /build*/
 /third_party/ffmpeg/
+/ffmpeg-*.tar.*
 *.mp4
 *.mkv
 *.avi
